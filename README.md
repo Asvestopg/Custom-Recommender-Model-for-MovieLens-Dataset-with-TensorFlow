@@ -7,7 +7,7 @@ This repository presents a recommendation model developed for the MovieLens rati
 
 Due to the dataset's size, the ratings.csv file is not included in this repository. You can access the complete dataset, including the ratings.csv file, by downloading it from the official MovieLens website:
 
-[Download MovieLens 20M dataset](http://files.grouplens.org/datasets/movielens/ml-20m.zip)
+http://files.grouplens.org/datasets/movielens/ml-20m.zip
 
 After downloading, extract the ratings.csv file from the zip archive.
 
